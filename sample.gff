@@ -1,0 +1,2 @@
+Group1.1        RSeq  CDS     1       75      .       -       0       "ID=cds0;Name=XP_012345678.1;Parent=rna123450;Dbxref=GeneID:123456,Genbank:XP_012345678.1;gbkey=CDS;product=random odorant thing 6a-like;protein_id=XP_012345678.1"
+Group1.2        RSeq  CDS     114     694     .       -       1       "ID=cds0;Name=XP_012345678.2;Parent=rna123450;Dbxref=GeneID:123456,Genbank:XP_012345678.2;gbkey=CDS;product=amazing odorant thing 6a-like;protein_id=XP_012345678.2"
