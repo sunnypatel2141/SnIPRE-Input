@@ -34,12 +34,12 @@ are (in order)...
 	
 The output file created from this R script has the following format...
 	
-Group					PR		FR		PS		FS		tsil	trepl		nout	npop		
-XP_003398050.1			10		3		3 		10 		445		483			20		16	
-XP_003398051.00			3		10		10		3 		544		384			20		16
+Group	PR	FR	PS	FS	tsil	trepl	nout	npop		
+XP_12345678.1	10	3	3 	10 	445	483	20	16	
+XP_12345678.2	3	10	10	3 	544	834	20	16
 	
 ### Usage of the R Script:
-		Rscript		snipre_prep.R		sample.vcf	10	17	syn_nonsyn_sample.eff	sample.gff	/coverage/Groups		16	20
+	Rscript		snipre_prep.R		sample.vcf	10	17	syn_nonsyn_sample.eff	sample.gff	/coverage/Groups		16	20
 
 				
 ##### Sani Patel, Winter 2015
